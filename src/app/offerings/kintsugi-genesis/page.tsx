@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { CheckCircle } from 'lucide-react';
 import Link from 'next/link';
 
-export default function KintsugiGenesisPage() {
+export default function GoldenStoryPage() {
   const coreModules = [
     'The Golden Story Inventory: Uncovering Your Key Life Moments',
     'Narrative Reframing: Turning Perceived Failures into Strengths',
@@ -25,7 +25,7 @@ export default function KintsugiGenesisPage() {
         <div className="max-w-4xl mx-auto">
           <header className="text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-6xl font-headline text-shimmer">
-              The Kintsugi Genesis: Embracing Your Golden Story
+              The Genesis Program: Embracing Your Golden Story
             </h1>
             <p className="mt-4 text-xl text-foreground/80">
               Discover the strength in your story's "fractures" and embrace your entire life journey.
@@ -38,7 +38,7 @@ export default function KintsugiGenesisPage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Core Concept</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>Your life story, with all its challenges and triumphs, is not a history to be hidden but a source of immense strength. This intensive one-on-one program guides you to look at the "breaks" in your narrative—the setbacks, the unexpected turns, the moments of vulnerability—and see them not as flaws, but as opportunities for growth. Using the Kintsugi philosophy, we will "mend" these fractures with the gold of self-awareness and intentionality, transforming your personal history into a powerful, authentic, and cohesive story that becomes the unshakable foundation for your future.</p>
+                <p>Your life story, with all its challenges and triumphs, is not a history to be hidden but a source of immense strength. This intensive one-on-one program guides you to look at the "breaks" in your narrative—the setbacks, the unexpected turns, the moments of vulnerability—and see them not as flaws, but as opportunities for growth. We will "mend" these fractures with the gold of self-awareness and intentionality, transforming your personal history into a powerful, authentic, and cohesive story that becomes the unshakable foundation for your future.</p>
               </CardContent>
             </Card>
 
@@ -47,7 +47,7 @@ export default function KintsugiGenesisPage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Be Greater Integration</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>This program is the first step in the "Be Greater" framework. Before you can build, you must understand your foundation. Kintsugi Genesis is about total clarity and acceptance of your past, allowing you to answer the foundational questions of the framework: "What do you want?" and "What do you have?" by looking at your life's story with newfound perspective. It’s the essential groundwork for building a life of purpose and fulfillment.</p>
+                <p>This program is the first step in the "Be Greater" framework. Before you can build, you must understand your foundation. The Genesis Program is about total clarity and acceptance of your past, allowing you to answer the foundational questions of the framework: "What do you want?" and "What do you have?" by looking at your life's story with newfound perspective. It’s the essential groundwork for building a life of purpose and fulfillment.</p>
               </CardContent>
             </Card>
 

@@ -13,7 +13,7 @@ export default function LegacyAscendantPage() {
     'Continuous VIP Priority Communication: Unlimited direct access for immediate, high-level guidance and real-time support over the full year.',
     'Annual Strategic Vision & Legacy Retreat (1-2 Days): An exclusive, immersive retreat for deep-dive strategic planning and vision refinement.',
     'Lifetime Membership to Purpose Architects Elite: Ongoing access to masterclasses, peer-led sessions, and exclusive content.',
-    'Kintsugi as a Living Metaphor: Embrace the philosophy of Kintsugi, celebrating all experiences as integral to becoming a stronger leader.',
+    'Living Philosophy: Embrace the philosophy of celebrating all experiences as integral to becoming a stronger leader.',
   ];
 
   return (

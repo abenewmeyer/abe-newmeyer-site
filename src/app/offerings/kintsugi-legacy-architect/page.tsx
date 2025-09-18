@@ -10,7 +10,7 @@ export default function LegacyArchitectPage() {
     'A clear and actionable legacy plan that harmonizes wealth and values.',
     'The ability to strategically turn past setbacks into powerful advantages in your mission.',
     'Confidence that your life\'s work is creating a meaningful, enduring difference.',
-    'An Annual Kintsugi Legacy Review to ensure long-term alignment and impact.',
+    'An Annual Legacy Review to ensure long-term alignment and impact.',
   ];
 
   const whoIsThisFor = [
@@ -26,7 +26,7 @@ export default function LegacyArchitectPage() {
         <div className="max-w-4xl mx-auto">
           <header className="text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-6xl font-headline text-shimmer">
-              The Kintsugi Legacy Architect: Harmonizing Purpose & Prosperity
+              The Legacy Architect: Harmonizing Purpose & Prosperity
             </h1>
             <p className="mt-4 text-xl text-foreground/80">
               Align your entire life to strategically create an enduring and impactful "golden" legacy.
@@ -39,7 +39,7 @@ export default function LegacyArchitectPage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Core Concept</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>True legacy is the final, most beautiful piece of Kintsugi art—where all the mended pieces of a life come together to create a masterpiece of impact. This exclusive, high-touch executive mentorship is the pinnacle of the Kintsugi journey. It is for those who have built their "Golden Self" and are now ready to use their resources, wisdom, and influence as the "gold" to mend, build, and create something of lasting value for the world. We will architect a strategic legacy that harmonizes your purpose and prosperity, ensuring your life's work becomes a testament to resilience, contribution, and beauty.</p>
+                <p>True legacy is a masterpiece of impact, where all the mended pieces of a life come together. This exclusive, high-touch executive mentorship is the pinnacle of the journey. It is for those who are now ready to use their resources, wisdom, and influence as the "gold" to mend, build, and create something of lasting value for the world. We will architect a strategic legacy that harmonizes your purpose and prosperity, ensuring your life's work becomes a testament to resilience, contribution, and beauty.</p>
               </CardContent>
             </Card>
 
@@ -101,7 +101,7 @@ export default function LegacyArchitectPage() {
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
                 <p><strong className="text-primary">Duration:</strong> 6-Month Bespoke Mentorship.</p>
-                <p><strong className="text-primary">Includes:</strong> 6 x 2-hour monthly mentorship sessions, "Golden Path" system development, and an Annual Kintsugi Legacy Review.</p>
+                <p><strong className="text-primary">Includes:</strong> 6 x 2-hour monthly mentorship sessions, "Golden Path" system development, and an Annual Legacy Review.</p>
                 <p><strong className="text-primary">Investment:</strong> $30,000</p>
               </CardContent>
             </Card>

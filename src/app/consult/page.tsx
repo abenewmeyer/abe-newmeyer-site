@@ -85,7 +85,7 @@ export default function ConsultationPage() {
         <div className="max-w-4xl mx-auto">
           <header className="text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-6xl font-headline text-shimmer">
-              Abe Newmeyer | The Kintsugi Architect: Pre-Consultation Questionnaire
+              Abe Newmeyer: Pre-Consultation Questionnaire
             </h1>
             <p className="mt-4 text-lg text-foreground/80">
               Thank you for your interest in a free 15-minute Clarity Consult. To make our conversation as focused and impactful as possible, please take a few moments to reflect on and answer the following questions. Your candid responses will help us understand your unique journey and how the 'Be Greater' framework can support you in getting what you want, enjoying getting it, and loving what you have. Please complete this questionnaire to proceed.

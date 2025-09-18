@@ -6,7 +6,7 @@ import { Footer } from '@/components/layout/footer';
 import { AuthProvider } from '@/context/auth-context';
 
 export const metadata: Metadata = {
-  title: 'Abe Newmeyer - The Kintsugi Architect',
+  title: 'Abe Newmeyer - Professional Development Strategist',
   description: 'Your Journey to Growth and Fulfillment Starts Here',
 };
 

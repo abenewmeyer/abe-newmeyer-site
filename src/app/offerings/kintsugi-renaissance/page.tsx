@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { CheckCircle } from 'lucide-react';
 import Link from 'next/link';
 
-export default function KintsugiRenaissancePage() {
+export default function GoldenSelfPage() {
   const keyOutcomes = [
     'Profound resilience and the ability to thrive after adversity.',
     'An authentic identity that integrates all parts of your past.',
@@ -26,7 +26,7 @@ export default function KintsugiRenaissancePage() {
         <div className="max-w-4xl mx-auto">
           <header className="text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-6xl font-headline text-shimmer">
-              Kintsugi Renaissance: Forging an Unwavering Golden Self
+              The Renaissance Program: Forging an Unwavering Golden Self
             </h1>
             <p className="mt-4 text-xl text-foreground/80">
               Actively integrate past challenges to build a stronger, more authentic, and resilient self.
@@ -39,7 +39,7 @@ export default function KintsugiRenaissancePage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Core Concept</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>A renaissance is a rebirth. This program is for those who have already embraced their story (Kintsugi Genesis) and are now ready to actively use it to forge a new, more powerful identity. This isn't about forgetting the past; it's about making it serve you. We will take the "mended" pieces of your story and integrate them into a cohesive, resilient, and beautiful new whole. You will learn to not only accept your past but to leverage it, turning your hard-won wisdom into the foundation of an unwavering "Golden Self."</p>
+                <p>A renaissance is a rebirth. This program is for those who have already embraced their story and are now ready to actively use it to forge a new, more powerful identity. This isn't about forgetting the past; it's about making it serve you. We will take the "mended" pieces of your story and integrate them into a cohesive, resilient, and beautiful new whole. You will learn to not only accept your past but to leverage it, turning your hard-won wisdom into the foundation of an unwavering "Golden Self."</p>
               </CardContent>
             </Card>
 

@@ -38,7 +38,7 @@ export default function UnwaveringSpiritPage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Introduction</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>This program is built on the Kintsugi philosophy of finding strength and beauty in the fractures of life's challenges. Resilience is not about avoiding failure; it's about mastering the art of the comeback. Unwavering Spirit is a premium hybrid coaching experience that combines personalized one-on-one strategy with a powerful group curriculum to build your capacity to thrive in the face of adversity.</p>
+                <p>This program is built on the philosophy of finding strength and beauty in the fractures of life's challenges. Resilience is not about avoiding failure; it's about mastering the art of the comeback. Unwavering Spirit is a premium hybrid coaching experience that combines personalized one-on-one strategy with a powerful group curriculum to build your capacity to thrive in the face of adversity.</p>
               </CardContent>
             </Card>
 
@@ -47,7 +47,7 @@ export default function UnwaveringSpiritPage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Core Concept</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>True resilience isn't an innate trait; it's a dynamic, buildable skill set. This program treats life's challenges—professional setbacks, personal trials, moments of doubt—as "breaks" that provide an opportunity for Kintsugi. We don't just patch the cracks; we guide you in mending them with the "gold" of strategic insight, emotional regulation, and a purpose-driven mindset. You will learn to see every challenge not as a point of failure, but as a part of a history that makes you stronger, more valuable, and more capable than before.</p>
+                <p>True resilience isn't an innate trait; it's a dynamic, buildable skill set. This program treats life's challenges—professional setbacks, personal trials, moments of doubt—as "breaks" that provide an opportunity for growth. We don't just patch the cracks; we guide you in mending them with the "gold" of strategic insight, emotional regulation, and a purpose-driven mindset. You will learn to see every challenge not as a point of failure, but as a part of a history that makes you stronger, more valuable, and more capable than before.</p>
               </CardContent>
             </Card>
             

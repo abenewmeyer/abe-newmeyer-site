@@ -47,7 +47,7 @@ export default function BrightSpotsPage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Core Concept</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>Inspired by the Kintsugi principle of finding beauty in repair, this course teaches you to see gratitude as the "gold" that mends the small cracks and fractures of daily life. By actively looking for and acknowledging the "bright spots"—the positive moments, interactions, and opportunities—you are not ignoring life's difficulties. Instead, you are strengthening your mindset to handle them with grace and resilience, reinforcing your emotional and mental wellbeing day by day.</p>
+                <p>Inspired by the principle of finding beauty in repair, this course teaches you to see gratitude as the "gold" that mends the small cracks and fractures of daily life. By actively looking for and acknowledging the "bright spots"—the positive moments, interactions, and opportunities—you are not ignoring life's difficulties. Instead, you are strengthening your mindset to handle them with grace and resilience, reinforcing your emotional and mental wellbeing day by day.</p>
               </CardContent>
             </Card>
             

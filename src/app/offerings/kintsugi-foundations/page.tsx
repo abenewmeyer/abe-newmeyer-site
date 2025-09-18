@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { CheckCircle } from 'lucide-react';
 import Link from 'next/link';
 
-export default function KintsugiFoundationsPage() {
+export default function FoundationsMasterclassPage() {
   const keyBenefits = [
     'Clarity on your unique value proposition.',
     'A powerful, resonant "why" that drives all your actions.',
@@ -26,7 +26,7 @@ export default function KintsugiFoundationsPage() {
         <div className="max-w-4xl mx-auto">
           <header className="text-center mb-12">
             <h1 className="text-4xl font-bold tracking-tighter sm:text-6xl font-headline text-shimmer">
-              Kintsugi Foundations Masterclass (Group Intensive)
+              Foundations Masterclass (Group Intensive)
             </h1>
             <p className="mt-4 text-xl text-foreground/80">
               Unlock the golden threads of your story and chart your destiny.
@@ -48,7 +48,7 @@ export default function KintsugiFoundationsPage() {
                 <CardTitle className="text-2xl font-headline text-shimmer">Core Concept</CardTitle>
               </CardHeader>
               <CardContent className="text-foreground/90 space-y-4">
-                <p>We believe that your most powerful "why" is not found, but forged. It’s built from the fragments of your experiences, challenges, and triumphs. This program uses the Kintsugi philosophy to help you piece together these fragments, mending them with the "gold" of self-awareness and intention. The result is a core purpose that is not just defined, but deeply felt and embodied—a resilient guide for every decision you make.</p>
+                <p>We believe that your most powerful "why" is not found, but forged. It’s built from the fragments of your experiences, challenges, and triumphs. This program helps you piece together these fragments, mending them with the "gold" of self-awareness and intention. The result is a core purpose that is not just defined, but deeply felt and embodied—a resilient guide for every decision you make.</p>
               </CardContent>
             </Card>
             
