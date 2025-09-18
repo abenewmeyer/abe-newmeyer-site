@@ -9,7 +9,7 @@
 import { ai } from '@/ai/genkit';
 import { z } from 'zod';
 import knowledgeBase from '@/lib/training-data.json';
-import { embed } from 'genkit/embed';
+import { embed } from 'genkit';
 import { embedder } from '@/ai/genkit';
 import { nearestNeighbor } from 'genkit/retriever';
 
